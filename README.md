@@ -1,4 +1,4 @@
-<h2 align="center">MelvinCr1 👋 <br>Currently a French computer science student.</h2>
+<h2 align="center">👋 MelvinCr1 <br>​💻​ Currently a French computer science student.</h2>
 
 ###
 
